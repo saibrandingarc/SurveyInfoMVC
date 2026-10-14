@@ -1,8 +1,15 @@
-﻿using SurveyInfoMVC.Models;
+﻿using Microsoft.AspNetCore.HttpOverrides;
+using SurveyInfoMVC.Models;
 using SurveyInfoMVC.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.Configure<ForwardedHeadersOptions>(options =>
+{
+    options.ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+    options.KnownNetworks.Clear();
+    options.KnownProxies.Clear();
+});
 builder.Services.AddControllersWithViews();
 builder.Services.Configure<QuestionProOptions>(builder.Configuration.GetSection(QuestionProOptions.SectionName));
 builder.Services.AddHttpClient<QuestionProService>((serviceProvider, client) =>
@@ -21,6 +28,8 @@ builder.Services.AddHttpClient<QuestionProService>((serviceProvider, client) =>
 });
 
 var app = builder.Build();
+
+app.UseForwardedHeaders();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
