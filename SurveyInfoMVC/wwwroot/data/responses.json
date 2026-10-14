@@ -1,0 +1,1990 @@
+{
+ "sample": true,
+ "last_refreshed": "2026-11-21T11:00:00Z",
+ "responses": [
+  {
+   "id": "3572a391",
+   "submitted_date": "2026-10-30",
+   "state": "NC",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$15 million to $25 million",
+   "q2": "17%-19%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Automotive",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "d579bc02",
+   "submitted_date": "2026-10-30",
+   "state": "NJ",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "7d930981",
+   "submitted_date": "2026-10-31",
+   "state": "IL",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$15 million to $25 million",
+   "q2": "21%-35%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "c096ac08",
+   "submitted_date": "2026-11-01",
+   "state": "TX",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "13c0d1b5",
+   "submitted_date": "2026-11-02",
+   "state": "IL",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "1dbc9641",
+   "submitted_date": "2026-11-02",
+   "state": "NC",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$5 million to $15 million",
+   "q2": "7%-9%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "280180d6",
+   "submitted_date": "2026-11-02",
+   "state": "NY",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$5 million to $15 million",
+   "q2": "17%-19%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "2fe58f6b",
+   "submitted_date": "2026-11-02",
+   "state": "FL",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "More than $35 million",
+   "q2": "15%-17%",
+   "q3": "More than $450 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Student loans (federal)",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "542c821a",
+   "submitted_date": "2026-11-02",
+   "state": "NY",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$15 million to $25 million",
+   "q2": "21%-35%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Student loans (private)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "584fa9bb",
+   "submitted_date": "2026-11-02",
+   "state": "PA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "64635b05",
+   "submitted_date": "2026-11-02",
+   "state": "FL",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$2 million to $3 million",
+   "q2": "21%-35%",
+   "q3": "$30 million to $40 million",
+   "q4": [
+    "Credit / retail card",
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "ad2ff069",
+   "submitted_date": "2026-11-02",
+   "state": "OH",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "13%-15%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Credit / retail card",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "adb7013a",
+   "submitted_date": "2026-11-02",
+   "state": "IL",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$2 million to $3 million",
+   "q2": "17%-19%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "e33e476e",
+   "submitted_date": "2026-11-02",
+   "state": "NJ",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Fintech",
+    "Student loans (federal)",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "fcf550ba",
+   "submitted_date": "2026-11-02",
+   "state": "AL",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "11%-13%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Credit / retail card",
+    "Fintech",
+    "Automotive",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "1e567ff4",
+   "submitted_date": "2026-11-03",
+   "state": "TX",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "22e28446",
+   "submitted_date": "2026-11-03",
+   "state": "MI",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Student loans (private)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "5ef06740",
+   "submitted_date": "2026-11-03",
+   "state": "NY",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$25 million to $35 million",
+   "q2": "More than 35%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "83d7a9d2",
+   "submitted_date": "2026-11-03",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "19%-21%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Student loans (private)",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "95b66160",
+   "submitted_date": "2026-11-03",
+   "state": "OH",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$25 million to $35 million",
+   "q2": "15%-17%",
+   "q3": "$350 million to $450 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "a37aa8e6",
+   "submitted_date": "2026-11-03",
+   "state": "UT",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "a5560885",
+   "submitted_date": "2026-11-03",
+   "state": "WI",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$15 million to $25 million",
+   "q2": "21%-35%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Credit / retail card",
+    "Automotive",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "b941911f",
+   "submitted_date": "2026-11-03",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "e81bd6d6",
+   "submitted_date": "2026-11-03",
+   "state": "CA",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Fintech",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "2b97512b",
+   "submitted_date": "2026-11-04",
+   "state": "MO",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "38321c69",
+   "submitted_date": "2026-11-04",
+   "state": "TX",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "4500e0b8",
+   "submitted_date": "2026-11-04",
+   "state": "FL",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Student loans (private)",
+    "Utility / telecom",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "48a5d800",
+   "submitted_date": "2026-11-04",
+   "state": "IL",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Mortgage / HELOC",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "63a1a04f",
+   "submitted_date": "2026-11-04",
+   "state": "CA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Tenant / landlord or rental",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "680db053",
+   "submitted_date": "2026-11-04",
+   "state": "NJ",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "13%-15%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Student loans (federal)",
+    "Tenant / landlord or rental",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "702182b4",
+   "submitted_date": "2026-11-04",
+   "state": "CA",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$5 million to $15 million",
+   "q2": "21%-35%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Student loans (federal)",
+    "Student loans (private)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "75c58c89",
+   "submitted_date": "2026-11-04",
+   "state": "MN",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "83e00e19",
+   "submitted_date": "2026-11-04",
+   "state": "IL",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "17%-19%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Utility / telecom",
+    "Commercial",
+    "Other"
+   ]
+  },
+  {
+   "id": "8f6716d6",
+   "submitted_date": "2026-11-04",
+   "state": "NJ",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "07fb971d",
+   "submitted_date": "2026-11-05",
+   "state": "NJ",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Fintech",
+    "Healthcare (institutional care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "0b399471",
+   "submitted_date": "2026-11-05",
+   "state": "OH",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "1f2a41fd",
+   "submitted_date": "2026-11-05",
+   "state": "TX",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$15 million to $25 million",
+   "q2": "17%-19%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Tenant / landlord or rental",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "2d28ef52",
+   "submitted_date": "2026-11-05",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "562b6b37",
+   "submitted_date": "2026-11-05",
+   "state": "NY",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "5dc381e0",
+   "submitted_date": "2026-11-05",
+   "state": "CA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "8a6f4c3d",
+   "submitted_date": "2026-11-05",
+   "state": "TX",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "ab0dd480",
+   "submitted_date": "2026-11-05",
+   "state": "CA",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "13%-15%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "b3a71c1a",
+   "submitted_date": "2026-11-05",
+   "state": "FL",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$15 million to $25 million",
+   "q2": "17%-19%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Student loans (private)",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "cdc91ef8",
+   "submitted_date": "2026-11-05",
+   "state": "NY",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Fintech",
+    "Automotive",
+    "Student loans (federal)"
+   ]
+  },
+  {
+   "id": "d938a5c5",
+   "submitted_date": "2026-11-05",
+   "state": "AZ",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "f8bb791e",
+   "submitted_date": "2026-11-05",
+   "state": "NC",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "13%-15%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Fintech",
+    "Student loans (federal)",
+    "Student loans (private)",
+    "Utility / telecom",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "132742ef",
+   "submitted_date": "2026-11-06",
+   "state": "MI",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "11%-13%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "13edadbb",
+   "submitted_date": "2026-11-06",
+   "state": "TX",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$1 million to $2 million",
+   "q2": "19%-21%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Tenant / landlord or rental",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "32f44fcb",
+   "submitted_date": "2026-11-06",
+   "state": "IL",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "35dd3afc",
+   "submitted_date": "2026-11-06",
+   "state": "OR",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Utility / telecom",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "7eb4fcff",
+   "submitted_date": "2026-11-06",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "21%-35%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Mortgage / HELOC",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "80684915",
+   "submitted_date": "2026-11-06",
+   "state": "CA",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$2 million to $3 million",
+   "q2": "17%-19%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Healthcare (institutional care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "a41378c0",
+   "submitted_date": "2026-11-06",
+   "state": "GA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (private)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "e1be6ef4",
+   "submitted_date": "2026-11-06",
+   "state": "NY",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$15 million to $25 million",
+   "q2": "17%-19%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Automotive",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "7458df0e",
+   "submitted_date": "2026-11-07",
+   "state": "OH",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$2 million to $3 million",
+   "q2": "15%-17%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Commercial",
+    "Other"
+   ]
+  },
+  {
+   "id": "c41653ba",
+   "submitted_date": "2026-11-07",
+   "state": "FL",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "0744a9cc",
+   "submitted_date": "2026-11-08",
+   "state": "OK",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "3806a4a7",
+   "submitted_date": "2026-11-09",
+   "state": "CA",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Mortgage / HELOC",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "39453e6e",
+   "submitted_date": "2026-11-09",
+   "state": "SC",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "15%-17%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "4fc0275a",
+   "submitted_date": "2026-11-09",
+   "state": "PA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Fintech",
+    "Student loans (federal)",
+    "Utility / telecom",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "88ef3b3c",
+   "submitted_date": "2026-11-09",
+   "state": "AZ",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Credit / retail card",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "8cf68093",
+   "submitted_date": "2026-11-09",
+   "state": "KY",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "19%-21%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Student loans (private)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "8ec51ffa",
+   "submitted_date": "2026-11-09",
+   "state": "TX",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "901106e1",
+   "submitted_date": "2026-11-09",
+   "state": "TX",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "9%-11%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Other"
+   ]
+  },
+  {
+   "id": "911f80cf",
+   "submitted_date": "2026-11-09",
+   "state": "TN",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$2 million to $3 million",
+   "q2": "19%-21%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Student loans (private)"
+   ]
+  },
+  {
+   "id": "96d28d78",
+   "submitted_date": "2026-11-09",
+   "state": "GA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "More than $35 million",
+   "q2": "15%-17%",
+   "q3": "More than $450 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Automotive",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "b300cad8",
+   "submitted_date": "2026-11-09",
+   "state": "CA",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$2 million to $3 million",
+   "q2": "17%-19%",
+   "q3": "$20 million to $30 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "c60fd48c",
+   "submitted_date": "2026-11-09",
+   "state": "VA",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "9%-11%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Mortgage / HELOC",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "c7c3b2cf",
+   "submitted_date": "2026-11-09",
+   "state": "FL",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "19%-21%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Fintech",
+    "Utility / telecom",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "f0ea686b",
+   "submitted_date": "2026-11-09",
+   "state": "OH",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "f2d4a754",
+   "submitted_date": "2026-11-09",
+   "state": "MA",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Buy now pay later (BNPL)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "08751fc2",
+   "submitted_date": "2026-11-10",
+   "state": "CA",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$3 million to $4 million",
+   "q2": "19%-21%",
+   "q3": "$30 million to $40 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Student loans (private)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "1c99f735",
+   "submitted_date": "2026-11-10",
+   "state": "OH",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "2640a3f8",
+   "submitted_date": "2026-11-10",
+   "state": "NV",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "13%-15%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Fintech",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "3abdb690",
+   "submitted_date": "2026-11-10",
+   "state": "NY",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "7%-9%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "3f95c792",
+   "submitted_date": "2026-11-10",
+   "state": "IL",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "19%-21%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Credit / retail card",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "4d9eb52f",
+   "submitted_date": "2026-11-10",
+   "state": "GA",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "5c50a904",
+   "submitted_date": "2026-11-10",
+   "state": "TX",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Fintech",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "6b476500",
+   "submitted_date": "2026-11-10",
+   "state": "GA",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Utility / telecom",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "c9b62e37",
+   "submitted_date": "2026-11-10",
+   "state": "FL",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "9%-11%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Mortgage / HELOC",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "d04ee80f",
+   "submitted_date": "2026-11-10",
+   "state": "TX",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Credit / retail card",
+    "Automotive",
+    "Utility / telecom",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "deae6ef9",
+   "submitted_date": "2026-11-10",
+   "state": "FL",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "More than $35 million",
+   "q2": "19%-21%",
+   "q3": "More than $450 million",
+   "q4": [
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "1603d516",
+   "submitted_date": "2026-11-11",
+   "state": "CA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Student loans (federal)",
+    "Utility / telecom",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "2139ca42",
+   "submitted_date": "2026-11-11",
+   "state": "MA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$25 million to $35 million",
+   "q2": "15%-17%",
+   "q3": "$250 million to $350 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Student loans (private)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "2e58bed4",
+   "submitted_date": "2026-11-11",
+   "state": "OH",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$1 million to $2 million",
+   "q2": "7%-9%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "32361881",
+   "submitted_date": "2026-11-11",
+   "state": "OH",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "11%-13%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "489c72c2",
+   "submitted_date": "2026-11-11",
+   "state": "NY",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "21%-35%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "74241c2f",
+   "submitted_date": "2026-11-11",
+   "state": "IL",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "More than $35 million",
+   "q2": "5%-7%",
+   "q3": "More than $450 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (federal)",
+    "Student loans (private)",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "96120439",
+   "submitted_date": "2026-11-11",
+   "state": "CA",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$1 million to $2 million",
+   "q2": "19%-21%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Automotive",
+    "Student loans (federal)",
+    "Utility / telecom",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "e7aceaa8",
+   "submitted_date": "2026-11-11",
+   "state": "DC",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$1 million to $2 million",
+   "q2": "21%-35%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Student loans (private)",
+    "Utility / telecom",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "17f73acb",
+   "submitted_date": "2026-11-12",
+   "state": "AZ",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "More than 35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Automotive",
+    "Utility / telecom",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "4952fc16",
+   "submitted_date": "2026-11-12",
+   "state": "NY",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Buy now pay later (BNPL)",
+    "Fintech",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "ef741393",
+   "submitted_date": "2026-11-12",
+   "state": "NC",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "17%-19%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "f79f5129",
+   "submitted_date": "2026-11-12",
+   "state": "OH",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$1 million to $2 million",
+   "q2": "11%-13%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "0bd99568",
+   "submitted_date": "2026-11-13",
+   "state": "CA",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$4 million to $5 million",
+   "q2": "21%-35%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "8ccc4839",
+   "submitted_date": "2026-11-13",
+   "state": "WA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "5%-7%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Automotive",
+    "Mortgage / HELOC",
+    "Student loans (federal)",
+    "Utility / telecom"
+   ]
+  },
+  {
+   "id": "9d1963d3",
+   "submitted_date": "2026-11-13",
+   "state": "CA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "17%-19%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (private)",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "f20bdcbd",
+   "submitted_date": "2026-11-13",
+   "state": "TX",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$5 million to $15 million",
+   "q2": "21%-35%",
+   "q3": "$50 million to $150 million",
+   "q4": [
+    "Credit / retail card",
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "63e5c771",
+   "submitted_date": "2026-11-14",
+   "state": "VA",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Tenant / landlord or rental",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "c6d0a3fb",
+   "submitted_date": "2026-11-14",
+   "state": "NC",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Automotive",
+    "Utility / telecom",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "124c6099",
+   "submitted_date": "2026-11-15",
+   "state": "TX",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Fintech",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "1a164c35",
+   "submitted_date": "2026-11-16",
+   "state": "FL",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Automotive",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "1a609bcf",
+   "submitted_date": "2026-11-16",
+   "state": "LA",
+   "source": "LinkedIn",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "21%-35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Buy now pay later (BNPL)",
+    "Fintech",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  },
+  {
+   "id": "3909ad57",
+   "submitted_date": "2026-11-16",
+   "state": "NY",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Automotive",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "83b941dc",
+   "submitted_date": "2026-11-17",
+   "state": "GA",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "9%-11%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "89dd7968",
+   "submitted_date": "2026-11-17",
+   "state": "TX",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "More than $35 million",
+   "q2": "21%-35%",
+   "q3": "$250 million to $350 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (federal)",
+    "Tenant / landlord or rental",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "a9cca577",
+   "submitted_date": "2026-11-17",
+   "state": "FL",
+   "source": "LinkedIn",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "More than 35%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "e750231f",
+   "submitted_date": "2026-11-17",
+   "state": "FL",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "15ab3292",
+   "submitted_date": "2026-11-18",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Government / taxes (for example, federal, state, municipal)"
+   ]
+  },
+  {
+   "id": "29095858",
+   "submitted_date": "2026-11-18",
+   "state": "IL",
+   "source": "Direct outreach",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Legal fees / court judgments",
+    "Other"
+   ]
+  },
+  {
+   "id": "a5f790f8",
+   "submitted_date": "2026-11-18",
+   "state": "IN",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$1 million to $2 million",
+   "q2": "15%-17%",
+   "q3": "$10 million to $20 million",
+   "q4": [
+    "Credit / retail card",
+    "Student loans (federal)",
+    "Utility / telecom",
+    "Healthcare (other medical care)",
+    "Legal fees / court judgments",
+    "Other"
+   ]
+  },
+  {
+   "id": "544d3763",
+   "submitted_date": "2026-11-19",
+   "state": "MI",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Government / taxes (for example, federal, state, municipal)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "78830795",
+   "submitted_date": "2026-11-19",
+   "state": "WA",
+   "source": "Fall Forum QR code",
+   "in_tu_2026": true,
+   "q1": "$5 million to $15 million",
+   "q2": "17%-19%",
+   "q3": "$150 million to $250 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Automotive",
+    "Mortgage / HELOC",
+    "Healthcare (institutional care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "a7090a9f",
+   "submitted_date": "2026-11-19",
+   "state": "CO",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "c99f247a",
+   "submitted_date": "2026-11-19",
+   "state": "CA",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "13%-15%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (federal)",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Legal fees / court judgments",
+    "Other"
+   ]
+  },
+  {
+   "id": "e36f9e88",
+   "submitted_date": "2026-11-19",
+   "state": "OH",
+   "source": "Receivables Info email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Automotive",
+    "Student loans (federal)",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)"
+   ]
+  },
+  {
+   "id": "790f8b2d",
+   "submitted_date": "2026-11-20",
+   "state": "FL",
+   "source": "ACA member email",
+   "in_tu_2026": false,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Automotive",
+    "Tenant / landlord or rental",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Commercial",
+    "Other"
+   ]
+  },
+  {
+   "id": "7ea3369c",
+   "submitted_date": "2026-11-20",
+   "state": "PA",
+   "source": "Receivables Info email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$0 to $1 million",
+   "q4": [
+    "Buy now pay later (BNPL)",
+    "Tenant / landlord or rental",
+    "Healthcare (institutional care)"
+   ]
+  },
+  {
+   "id": "93737d35",
+   "submitted_date": "2026-11-20",
+   "state": "PA",
+   "source": "Direct outreach",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "15%-17%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Unsecured consumer installment loans",
+    "Student loans (federal)",
+    "Utility / telecom",
+    "Healthcare (institutional care)",
+    "Healthcare (other medical care)",
+    "Commercial"
+   ]
+  },
+  {
+   "id": "b0cd825c",
+   "submitted_date": "2026-11-20",
+   "state": "NY",
+   "source": "ACA member email",
+   "in_tu_2026": true,
+   "q1": "$0 to $1 million",
+   "q2": "19%-21%",
+   "q3": "$1 million to $10 million",
+   "q4": [
+    "Credit / retail card",
+    "Unsecured consumer installment loans",
+    "Buy now pay later (BNPL)",
+    "Tenant / landlord or rental",
+    "Commercial",
+    "Legal fees / court judgments"
+   ]
+  }
+ ]
+}

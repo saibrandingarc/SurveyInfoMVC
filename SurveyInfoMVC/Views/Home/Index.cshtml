@@ -1,0 +1,128 @@
+﻿@{
+    ViewData["Title"] = "2026 Collection Agency Economic Impact Survey: Live Results";
+    Layout = "_SurveyLayout";
+}
+
+<header class="page-header wrap">
+    <h1>2026 Collection Agency Economic Impact Survey: Live Results</h1>
+    <p class="byline">Receivables Info in partnership with ACA International</p>
+    <p class="refreshed">Last refreshed <span id="last-refreshed">...</span></p>
+    <p class="confidential">Aggregate results only. Individual responses are confidential.</p>
+</header>
+
+<main class="wrap">
+    <div id="load-error" class="load-error" role="alert" hidden>Results could not be loaded. Please refresh the page.</div>
+
+    <section class="panel p1" aria-labelledby="p1-title">
+        <div class="panel-head"><h2 id="p1-title">Progress</h2><span class="scope">All states</span></div>
+        <div class="kpis">
+            <div class="kpi">
+                <div class="kpi-num" id="kpi-total">0</div>
+                <div class="kpi-label">Validated responses</div>
+                <div class="kpi-sub">Target: 100</div>
+                <div class="progress" role="progressbar" aria-label="Progress toward 100 responses" aria-valuemin="0" aria-valuemax="100" id="kpi-bar"><span></span></div>
+            </div>
+            <div class="kpi"><div class="kpi-num" id="kpi-new">0</div><div class="kpi-label">New since last refresh</div></div>
+            <div class="kpi"><div class="kpi-num" id="kpi-states">0</div><div class="kpi-label">States represented</div></div>
+            <div class="kpi"><div class="kpi-num" id="kpi-tu">0</div><div class="kpi-label">Total completed surveys</div></div>
+        </div>
+    </section>
+
+    <section class="panel p2" aria-labelledby="p2-title">
+        <div class="panel-head"><h2 id="p2-title">Responses over time</h2><span class="scope">All states</span></div>
+        <div class="timeline" id="timeline"></div>
+    </section>
+
+    <div class="filter-bar" id="filter-bar">
+        <div class="filter">
+            <span class="filter-label" id="filter-label">Filter by headquarters state</span>
+            <div class="filter-row">
+                <div class="ms" id="ms">
+                    <button type="button" class="ms-btn" id="ms-btn" aria-haspopup="listbox" aria-expanded="false" aria-labelledby="filter-label ms-btn-text">
+                        <span id="ms-btn-text">All states</span><span class="caret" aria-hidden="true"></span>
+                    </button>
+                    <div class="ms-pop" id="ms-pop" hidden>
+                        <input type="search" id="ms-search" placeholder="Search states" autocomplete="off" aria-label="Search states">
+                        <ul class="ms-list" id="ms-list" role="listbox" aria-multiselectable="true"></ul>
+                    </div>
+                </div>
+                <button type="button" class="clear" id="ms-clear" hidden>Clear</button>
+                <span class="filter-status" id="filter-status" aria-live="polite"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="grid">
+        <section class="panel" aria-labelledby="p3-title">
+            <div class="panel-head"><h2 id="p3-title">Collected on assigned debt</h2></div>
+            <p class="qtext">What was the total collected amount on assigned debt in 2025?</p>
+            <div class="chart" id="chart-q1"></div>
+            <p class="base" data-base></p>
+        </section>
+        <section class="panel" aria-labelledby="p4-title">
+            <div class="panel-head"><h2 id="p4-title">Fee structure</h2></div>
+            <p class="qtext">Which range below most accurately represents your fee structure as a percentage of gross collections?</p>
+            <div class="chart" id="chart-q2"></div>
+            <p class="base" data-base></p>
+        </section>
+        <section class="panel" aria-labelledby="p5-title">
+            <div class="panel-head"><h2 id="p5-title">Assigned accounts referred</h2></div>
+            <p class="qtext">Please provide the total dollar amount of Assigned Accounts referred to you in 2025.</p>
+            <div class="chart" id="chart-q3"></div>
+            <p class="base" data-base></p>
+        </section>
+        <section class="panel" aria-labelledby="p6-title">
+            <div class="panel-head"><h2 id="p6-title">Types of debt collected</h2></div>
+            <p class="qtext">What types of debt did your company collect over the last 12 months? (Select all that apply)</p>
+            <p class="note">Agencies select all that apply, so percentages add to more than 100%.</p>
+            <div class="chart" id="chart-q4"></div>
+            <p class="base" data-base></p>
+        </section>
+        <section class="panel" aria-labelledby="p7-title">
+            <div class="panel-head"><h2 id="p7-title">Responses by state</h2><span class="scope">All states</span></div>
+            <div class="table-wrap">
+                <table class="states">
+                    <thead><tr><th scope="col">State</th><th scope="col" class="num">Responses</th><th scope="col" class="num">Share of all responses</th></tr></thead>
+                    <tbody id="state-rows"></tbody>
+                    <tfoot><tr><th scope="row">Total</th><td class="num" id="state-total">0</td><td class="num">100%</td></tr></tfoot>
+                </table>
+            </div>
+        </section>
+        <section class="panel p8" aria-labelledby="p8-title">
+            <div class="panel-head"><h2 id="p8-title">Responses by source</h2><span class="scope">All states</span></div>
+            <div class="chart" id="chart-source"></div>
+        </section>
+    </div>
+
+    <section class="panel responses-panel" aria-labelledby="p9-title">
+        <div class="panel-head"><h2 id="p9-title">Responses</h2><span class="scope" id="response-scope">All states</span></div>
+        <div class="table-wrap">
+            <table class="states responses">
+                <thead>
+                    <tr>
+                        <th scope="col">Submitted</th>
+                        <th scope="col">State</th>
+                        <th scope="col">Collected on assigned debt</th>
+                        <th scope="col">Fee structure</th>
+                        <th scope="col">Assigned accounts referred</th>
+                        <th scope="col">Types of debt collected</th>
+                    </tr>
+                </thead>
+                <tbody id="response-rows"></tbody>
+            </table>
+        </div>
+    </section>
+</main>
+
+<footer class="wrap page-footer">
+    <p>Results are limited to validated U.S. third-party collection agencies. Each agency is counted once.</p>
+</footer>
+
+<div class="tip" id="tip" role="tooltip" hidden></div>
+
+@section Scripts {
+    <script>
+        window.DASHBOARD_DATA_URL = "@Url.Action("Responses", "Home")";
+    </script>
+    <script src="~/js/dashboard.js" asp-append-version="true"></script>
+}
